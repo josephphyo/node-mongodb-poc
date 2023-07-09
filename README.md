@@ -1,2 +1,6 @@
-## Node-Express-MongoDB POC
+# Node-Express-MongoDB POC
+``npm install``
+  
+``node server.js`` 
+
 #### joseph.phyominhtun@outlook.com
